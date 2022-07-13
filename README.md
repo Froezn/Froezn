@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joshua.
-- 👀 I’m interested in coding(of course), I love and make music in my freetime, I play the violin and I'm into creative coder as well.
+- 👀 I’m interested in coding(of course), I love and make music in my freetime, I play the violin and I'm into creative coding as well.
 - 🌱 I’m currently learning Javascript, I have a decent knowledge of html and css, I'm also learning React and NodeJS.
 - 📫 How to reach me - my email is joyohanna007@gmail.com, my twitter - twitter.com/jy_src, my creative coding instagram page - instagram.com/chaos.rgb.
 
